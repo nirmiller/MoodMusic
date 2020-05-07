@@ -63,7 +63,7 @@ public class MainMenuActivity extends Activity implements View.OnClickListener {
             toast.show();
         }
 
-
+//k
         lastEmotion.setImageResource(Mood.getSRC(currentUser.getRecentMood().getMoodType()));
 
     }
